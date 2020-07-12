@@ -1,0 +1,11 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.333"
+  },
+  "scripts": {
+    "dev": "parcel src/index.js"
+  }
+}
